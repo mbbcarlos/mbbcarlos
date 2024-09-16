@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Currently learning: iOS development<br>🔜 Netxt: NextJS<br>🎓 Masters Degree in Computer Science and Engineering (Integrated)<br>🌐 Lisboa, Portugal<br>💟 Hobbies: drawing, photo and video editing<br>😄 Pronouns: she/her<br>⚡
+🌱Currently learning/interested in: iOS development. NextJS <br>🔜 Netxt: PixiJS<br>🎓 Masters Degree in Computer Science and Engineering (Integrated)<br>🌐 Lisboa, Portugal<br>💟 Hobbies: drawing, photo and video editing<br>😄 Pronouns: she/her<br>⚡
 
 
 ## 🌐 Socials:
